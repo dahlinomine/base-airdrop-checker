@@ -1,0 +1,14 @@
+{
+  "name": "base-airdrop-checker",
+  "version": "0.1.0",
+  "description": "Universal airdrop eligibility checker for Base ecosystem",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
